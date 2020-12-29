@@ -1,3 +1,9 @@
+### Description
+This is a very simply React app built without create-react-app
+It was built as part of my Fullstack React coursework (https://www.newline.co/fullstack-react/)
+My main takeaway with this project is the property initializer feature which allows
+the user to bypass the constructor function.
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
